@@ -1,1 +1,1 @@
-Sokoban game in C++ console, my second project.
+Sokoban game in C++ console.
